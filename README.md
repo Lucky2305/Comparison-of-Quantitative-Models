@@ -1,0 +1,1 @@
+It contains two python file the one with name European options is used for the calculation of the monte carlo simulation and the other Comparison of quantitative models is used for the calculation of the Black Scholes model and the Binomial Tree model. Also compared the values of different models in which BSM and Binomial were accurate as compared to monte carlo 
